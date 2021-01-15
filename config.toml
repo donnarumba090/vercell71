@@ -1,0 +1,4 @@
+baseURL = "https://babyimagefreewin.vercel.app"
+languageCode = "en-us"
+title = "Baby Image Download"
+theme = "tale-hugo-master"
